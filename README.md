@@ -23,3 +23,5 @@ You should see the web page where you can turn the relay on and off.
 Notes:
 Ensure the relay module is powered properly.
 You can customize the GPIO pin used for the relay control (e.g., D1, D2, etc.) depending on your wiring.
+
+Created by https://ecmd.ro 
